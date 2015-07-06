@@ -1,4 +1,4 @@
-# jycraft_web
+# jycraft-web
 
 Original web coding environment for Jycraft from the pre-Jycraft days.
 
